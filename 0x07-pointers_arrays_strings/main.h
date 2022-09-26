@@ -2,9 +2,9 @@
 #define MAIN_H
 
 /**
-*void prototypes(void)
-*int prototypes(int)
-*char prototypes(char)
+ 
+* void prototypes()
+* int prototypes()
 */
 
 void print_chessboard(char (*a)[8]);
